@@ -1,0 +1,31 @@
+[{
+    "name": "Alemania",
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/135px-Flag_of_Germany.svg.png",
+    "regiones": ["62ebe6d61496a6b22ff1407e", "62ebe6d61496a6b22ff1407f"],
+    "animales": ["62ebe7f31496a6b22ff18d63", "62ebe7f31496a6b22ff18d64"],
+    "cantantes": ["62ebe81f1496a6b22ff198a6", "62ebe81f1496a6b22ff198a7"]
+},
+{
+    "name": "España",
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/135px-Bandera_de_Espa%C3%B1a.svg.png",
+    "regiones": ["62ebe6d61496a6b22ff14080", "62ebe6d61496a6b22ff14081"],
+    "animales": ["62ebe7f31496a6b22ff18d61", "62ebe7f31496a6b22ff18d62"],
+    "cantantes": ["62ebe81f1496a6b22ff198a5","62ebe81f1496a6b22ff198a4"]
+},
+{
+    "name": "Japón",
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/135px-Flag_of_Japan.svg.png",
+    "regiones": ["62ebe6d61496a6b22ff14082", "62ebe6d61496a6b22ff14083"],
+    "animales": ["62ebe7f31496a6b22ff18d65", "62ebe7f31496a6b22ff18d66"],
+    "cantantes": ["62ebe81f1496a6b22ff198aa", "62ebe81f1496a6b22ff198ab"]
+},
+{
+    "name": "Brasil",
+    "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/135px-Flag_of_Brazil.svg.png",
+    "regiones": ["62ebe6d61496a6b22ff14084","62ebe6d61496a6b22ff14085" ],
+    "animales": ["62ebe7f31496a6b22ff18d67", "62ebe7f31496a6b22ff18d68"],
+    "cantantes": ["62ebe81f1496a6b22ff198a8","62ebe81f1496a6b22ff198a9" ]
+}
+
+
+]

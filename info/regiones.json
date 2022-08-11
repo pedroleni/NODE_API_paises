@@ -1,0 +1,53 @@
+[
+
+    {
+        "name": "Baviera",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Locator_map_Bavaria_in_Germany.svg/250px-Locator_map_Bavaria_in_Germany.svg.png",
+        "animales": [""],
+        "pais":["id alemania"]
+    },
+    {
+        "name": "Brandeburgo",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Locator_map_Brandenburg_in_Germany.svg/250px-Locator_map_Brandenburg_in_Germany.svg.png",
+        "animales": [""],
+        "pais":["id alemania"]
+    },
+    {
+        "name": "Comunidad de Madrid",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Comunidad_de_Madrid_in_Spain_%28including_Canarias%29.svg/266px-Comunidad_de_Madrid_in_Spain_%28including_Canarias%29.svg.png",
+        "animales": [""],
+        "pais":[" id de españa"]
+    },
+    {
+        "name": "Cataluña",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cataluna_in_Spain_%28including_Canarias%29.svg/266px-Cataluna_in_Spain_%28including_Canarias%29.svg.png",
+        "animales": [""],
+        "pais":["id de españa "]
+    },
+    {
+        "name": "Mato Grosso",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mato_Grosso_in_Brazil.svg/250px-Mato_Grosso_in_Brazil.svg.png",
+        "animales": [""],
+        "pais":["id de brasil"]
+    },
+    {
+        "name": "Amazonas",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amazonas_in_Brazil.svg/250px-Amazonas_in_Brazil.svg.png",
+        "animales": [""],
+        "pais":["id de brasil"]
+    },
+    {
+        "name": "Región de Kansai",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kansai_Region_in_Japan.svg/238px-Kansai_Region_in_Japan.svg.png",
+        "animales": [""],
+        "pais":["id de japon"]
+    },
+    {
+        "name": "Región de Tōhoku",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tohoku_Region_in_Japan.svg/238px-Tohoku_Region_in_Japan.svg.png",
+        "animales": [""],
+        "pais":["id de japon"]
+    }
+
+
+]

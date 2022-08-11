@@ -1,0 +1,52 @@
+[
+    {
+        "name": "David Bilbal",
+        "imagen": "http://www.ideal.es/noticias/201401/24/media/bisba.jpg",
+        "edad": "43",
+        "pais":["id del españa al que pertenece"]
+    },
+    {
+        "name": "Rosa Lopez",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rosa_L%C3%B3pez_%2848520806612%29.jpg/220px-Rosa_L%C3%B3pez_%2848520806612%29.jpg",
+        "edad": "41",
+        "pais":["id del españa al que pertenece"]
+    },
+    {
+        "name": "Max Giesinger",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Max_Giesinger-3330.jpg/220px-Max_Giesinger-3330.jpg",
+        "edad": "33",
+        "pais":["id del alemania al que pertenece"]
+    },
+    {
+        "name": "Franka Potente",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/MJK_335110_Franka_Potente_%28NRW-Empfang%2C_Berlinale_2019%29.jpg/200px-MJK_335110_Franka_Potente_%28NRW-Empfang%2C_Berlinale_2019%29.jpg",
+        "edad": "48",
+        "pais":["id del alemania al que pertenece"]
+    },
+    {
+        "name": "Anitta",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anitta_2021.jpg/220px-Anitta_2021.jpg",
+        "edad": "29",
+        "pais":["id del brasil al que pertenece"]
+    },
+    {
+        "name": "Roberto Carlos",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Roberto_Carlos_Credicard_Hall_%2842626066250%29.jpg/220px-Roberto_Carlos_Credicard_Hall_%2842626066250%29.jpg",
+        "edad": "81",
+        "pais":["id del brasil al que pertenece"]
+    },
+    {
+        "name": "Sana",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/20220121%E2%80%94Sana_%EC%82%AC%EB%82%98_Campaign_Film%2C_Pearlygates_x_Twice_2022.jpg/240px-20220121%E2%80%94Sana_%EC%82%AC%EB%82%98_Campaign_Film%2C_Pearlygates_x_Twice_2022.jpg",
+        "edad": "25",
+        "pais":["id del japon al que pertenece"]
+    },
+    {
+        "name": "Kotoko",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/KOTOKO_at_Animazement_2012_%28cropped%29.jpg/220px-KOTOKO_at_Animazement_2012_%28cropped%29.jpg",
+        "edad": "32",
+        "pais":["id del japon al que pertenece"]
+    }
+
+
+]

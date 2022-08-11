@@ -1,0 +1,52 @@
+[
+{
+    "name": "Lince Iberico",
+    "imagen": "https://t2.ev.ltmcdn.com/es/posts/3/5/4/animales_autoctonos_de_espana_3453_orig.jpg",
+    "regiones": ["62ebe6d61496a6b22ff14080", "62ebe6d61496a6b22ff14081"]
+
+},
+{
+    "name": "Lobo iberico",
+    "imagen": "https://t2.ev.ltmcdn.com/es/posts/3/5/4/animales_en_peligro_de_extincion_en_espana_3453_10_600.webp",
+    "regiones": ["62ebe6d61496a6b22ff14080"]
+
+},
+{
+    "name": "Gato montés europeo",
+    "imagen": "https://www.animalsaroundtheglobe.com/wp-content/uploads/2020/08/simone-scholten-vF6n3Yhxnr8-unsplash.jpg",
+    "regiones": ["62ebe6d61496a6b22ff1407e"]
+
+},
+{
+    "name": "Tejón europeo",
+    "imagen": "https://www.animalsaroundtheglobe.com/wp-content/uploads/2020/08/vincent-van-zalinge-Yh2zBhsnTjw-unsplash.jpg",
+    "regiones": ["62ebe6d61496a6b22ff1407f"]
+
+},
+{
+    "name": "Manati de las amazonas",
+    "imagen": "https://viajesbeagle.com/wp-content/uploads/2022/04/manati-amazonas.jpg",
+    "regiones": ["62ebe6d61496a6b22ff14083"]
+
+},
+{
+    "name": "Tamarinos",
+    "imagen": "https://viajesbeagle.com/wp-content/uploads/2022/04/tamarinos-dorados.jpg",
+    "regiones": ["62ebe6d61496a6b22ff14082"]
+
+},
+{
+    "name": "Gato de Iriomote",
+    "imagen": "https://t1.ev.ltmcdn.com/es/posts/9/3/1/gato_de_iriomote_prionailurus_bengalensis_iriomotensis_2139_2_600.webp",
+    "regiones": ["62ebe6d61496a6b22ff14084"]
+
+},
+{
+    "name": "Macaco japonés",
+    "imagen": "https://t1.ev.ltmcdn.com/es/posts/9/3/1/macaco_japones_macaca_fuscata_2139_3_600.webp",
+    "regiones": ["62ebe6d61496a6b22ff14085"]
+
+}
+
+
+]
